@@ -535,8 +535,8 @@ img {
   display: inline-block;
 }
 
-.social-network-list-footer>.social-network-list-link:hover,
-.social-network-list-footer>.social-network-list-link:focus {
+.social-network-list-link-footer:focus,
+.social-network-list-link-footer:hover {
   background-color: #31d0aa;
 }
 
