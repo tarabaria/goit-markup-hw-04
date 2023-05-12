@@ -482,6 +482,7 @@ img {
 .customers-icon:hover,
 .customers-icon:focus {
   fill: var(--accent-color);
+  color: var(--accent-color);
 }
 
 .customers-link {
