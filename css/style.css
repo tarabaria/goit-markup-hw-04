@@ -479,6 +479,10 @@ img {
   border-radius: 4px;
 }
 
+/* .customers-icon:hover,
+.customers-icon:focus {
+  background-color: var(--accent-color);
+} */
 
 .customers-link {
   height: 100%;
@@ -494,7 +498,7 @@ img {
 
 .customers-link:hover,
 .customers-link:focus {
-  color: var(--accent-color);
+  fill: var(--accent-color);
   border-color: var(--accent-color);
 }
 
