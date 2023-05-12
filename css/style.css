@@ -486,13 +486,13 @@ img {
 
 .customers-link:focus,
 .customers-link:hover {
-  border-radius: 4px;
   fill: var(--accent-color);
 }
 
 .customers-item:focus,
 .customers-item:hover {
   border: 1px solid var(--accent-color);
+  border-radius: 4px;
 }
 
 
