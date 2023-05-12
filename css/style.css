@@ -453,14 +453,20 @@ img {
   width: calc((100% - 120px) / 6);
   border: 1px solid #8E8F99;
   border-radius: 4px;
+  height: 88px;
+  display: flex;
   justify-content: center;
   align-items: center;
-  height: 88px;
+
+
 }
+
+.customers-link {}
 
 .customers-icon {
   width: 104px;
   height: 56px;
+
 }
 
 
