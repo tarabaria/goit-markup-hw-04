@@ -419,7 +419,10 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 112px;
+  border-radius: 4px;
 }
+
 
 /* =======MAIN PORTFOLIO======= */
 
