@@ -467,9 +467,6 @@ img {
   height: 88px;
 }
 
-/* .customers-item:focus,
-.customers-item:hover {} */
-
 .customers-icon {
   width: 104px;
   height: 56px;
@@ -487,11 +484,11 @@ img {
 
 }
 
-.customers-link:focus,
-.customers-link:hover {
+.customers-item:focus,
+.customers-item:hover {
   border-radius: 4px;
   fill: var(--accent-color);
-  border: var(--accent-color);
+  border: 1px solid var(--accent-color);
 }
 
 
