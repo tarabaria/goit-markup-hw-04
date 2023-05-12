@@ -504,7 +504,7 @@ img {
 
 .page-footer>.container {
   display: flex;
-  align-items: baseline
+  align-items: baseline;
 }
 
 .footer-text {
@@ -519,9 +519,19 @@ img {
   background-color: var(--second-color);
 }
 
+.social-network-list-footer {
+  gap: 16px;
+  display: flex;
+}
+
 .logo-footer>.logo {
   margin-bottom: 16px;
   display: inline-block;
+}
+
+.social-network-list-footer>.social-network-list-link:hover,
+.social-network-list-footer>.social-network-list-link:focus {
+  background-color: #31d0aa;
 }
 
 /* =======FOOTER======= */
