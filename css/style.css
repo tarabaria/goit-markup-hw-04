@@ -272,6 +272,7 @@ img {
   text-align: center;
   letter-spacing: 0.02em;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .team-photo {
@@ -380,6 +381,22 @@ img {
   justify-content: center;
 }
 
+.social-network-list {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+
+
+.social-network-list-link {
+  background-color: var(--main-blue-color);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
 
 /* =======MAIN PORTFOLIO======= */
 
