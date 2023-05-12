@@ -479,14 +479,14 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  fill: #8e8f99;
+  color: #8e8f99;
   border: 1px solid #8E8F99;
 
 }
 
 .customers-link:focus,
 .customers-link:hover {
-  fill: var(--accent-color);
+  color: var(--accent-color);
 }
 
 .customers-item:focus,
