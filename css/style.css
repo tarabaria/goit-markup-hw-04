@@ -91,7 +91,7 @@ img {
   text-transform: uppercase;
 }
 
-.logo-footer {
+.logo-footer-container {
   margin-right: 120px;
 }
 
@@ -496,7 +496,6 @@ img {
 .customers-link:focus {
   color: var(--accent-color);
   border-color: var(--accent-color);
-
 }
 
 
@@ -531,7 +530,7 @@ img {
   display: flex;
 }
 
-.logo-footer>.logo {
+.logo-footer {
   margin-bottom: 16px;
   display: inline-block;
 }
