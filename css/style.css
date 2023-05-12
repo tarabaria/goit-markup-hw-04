@@ -429,6 +429,10 @@ img {
   height: 64px;
 }
 
+.customers-list {
+  display: flex;
+}
+
 
 /* =======MAIN PORTFOLIO======= */
 
