@@ -152,7 +152,7 @@ img {
   margin-bottom: 48px;
 }
 
-.page-main>.hero {
+.hero {
   background-color: var(--second-color);
 }
 
