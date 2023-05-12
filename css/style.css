@@ -480,6 +480,19 @@ img {
 
 }
 
+.customers-item:hover,
+.customers-item:focus {
+
+  border: 1px solid var(--accent-color);
+}
+
+.customers-icon:hover,
+.customers-icon:focus {
+  fill: var(--accent-color);
+}
+
+
+
 
 /* =======MAIN PORTFOLIO======= */
 
