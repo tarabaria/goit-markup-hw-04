@@ -380,9 +380,13 @@ img {
   justify-content: center;
 }
 
-.icon-list {
+.icon {
   display: flex;
 }
+
+/* .icon-list {
+  display: flex;
+} */
 
 /* =======MAIN PORTFOLIO======= */
 
