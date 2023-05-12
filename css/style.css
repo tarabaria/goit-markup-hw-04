@@ -431,6 +431,11 @@ img {
 
 .customers-list {
   display: flex;
+  background-position: 72px;
+}
+
+.customers {
+  padding: 120px 0;
 }
 
 
