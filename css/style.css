@@ -491,7 +491,6 @@ img {
 
 .customers-item:focus,
 .customers-item:hover {
-
   border-radius: 4px;
 }
 
@@ -549,6 +548,10 @@ img {
 .social-network-list-item-footer {
   width: 40px;
   height: 40px;
+}
+
+.social-network-list-icon-footer {
+  fill: var(--light-color)
 }
 
 /* =======FOOTER======= */
