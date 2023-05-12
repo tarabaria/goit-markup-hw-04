@@ -486,7 +486,7 @@ img {
 .customers-link:focus,
 .customers-link:hover {
   color: var(--accent-color);
-  border-color: 1px solid var(--accent-color);
+  border-color: var(--accent-color);
 }
 
 .customers-item:focus,
