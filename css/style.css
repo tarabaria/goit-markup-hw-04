@@ -159,10 +159,9 @@ img {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-}
-
-.hero {
   padding: 188px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-btn {
@@ -413,6 +412,13 @@ img {
 
 .social-network-list-icon {
   fill: var(--light-color);
+}
+
+.icon {
+  background-color: var(--light-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* =======MAIN PORTFOLIO======= */
