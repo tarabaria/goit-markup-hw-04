@@ -50,11 +50,12 @@ img {
   padding-left: 15px;
   padding-right: 15px;
 }
+
 /* =======BASIC SETTING======= */
 
 /* =======HEADER======= */
 
-.page-header > .container {
+.page-header>.container {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -67,14 +68,11 @@ img {
   padding-bottom: 32px;
   border-bottom: 1px solid #e7e9fc;
 }
+
 .navigation-header {
   display: flex;
   align-items: center;
   column-gap: 76px;
-}
-
-.navigation-header > .logo {
-  margin-right: 76px;
 }
 
 .navigation {
@@ -95,10 +93,12 @@ img {
 .logo-second-part-dark {
   color: var(--second-color);
 }
+
 .contact {
   display: flex;
   gap: 40px;
 }
+
 .logo-second-part-light {
   color: var(--light-color);
 }
@@ -150,9 +150,11 @@ img {
   margin-left: auto;
   margin-bottom: 48px;
 }
-.page-main > .hero {
+
+.page-main>.hero {
   background-color: var(--second-color);
 }
+
 .hero {
   padding: 188px 0;
 }
@@ -210,6 +212,7 @@ img {
   margin-right: auto;
   margin-bottom: 72px;
 }
+
 .title-work-container {
   display: flex;
 }
@@ -217,9 +220,11 @@ img {
 .work-photo {
   background-color: var(--white-color);
 }
+
 .section-photo {
   width: calc((100% - 48px) / 3);
 }
+
 .work {
   padding-bottom: 120px;
 }
@@ -271,28 +276,34 @@ img {
   display: flex;
   gap: 24px;
 }
+
 .team {
   background-color: var(--light-color);
   padding: 120px 0;
 }
+
 .features {
   padding: 120px 0;
   display: flex;
 }
 
-.features > .container {
+.features>.container {
   display: flex;
 }
+
 .features-list {
   display: flex;
   gap: 24px;
 }
+
 .features-list-text {
   width: calc((100% - 72px) / 4);
 }
+
 .team-info {
   padding: 32px 16px;
 }
+
 /* =======MAIN STUDIO======= */
 
 /* =======MAIN PORTFOLIO======= */
@@ -337,6 +348,7 @@ img {
 .filtr-list {
   padding: 96px 0 120px;
 }
+
 .filtr {
   display: flex;
   flex-wrap: wrap;
@@ -354,12 +366,14 @@ img {
 .filtr-project {
   width: calc((100% - 48px) / 3);
 }
+
 .hidden-list {
   display: flex;
   margin-bottom: 72px;
   gap: 24px;
   justify-content: center;
 }
+
 /* =======MAIN PORTFOLIO======= */
 
 /* =======FOOTER======= */
@@ -367,6 +381,7 @@ img {
   background-color: var(--second-color);
   padding: 100px 0;
 }
+
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
@@ -374,11 +389,14 @@ img {
   color: var(--light-color);
   max-width: 264px;
 }
+
 .page-footer {
   background-color: var(--second-color);
 }
-.page-footer > .container > .logo {
+
+.page-footer>.container>.logo {
   margin-bottom: 16px;
   display: inline-block;
 }
+
 /* =======FOOTER======= */
