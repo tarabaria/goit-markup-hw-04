@@ -453,7 +453,7 @@ img {
   color: var(--second-color);
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
@@ -532,6 +532,11 @@ img {
 .social-network-list-footer>.social-network-list-link:hover,
 .social-network-list-footer>.social-network-list-link:focus {
   background-color: #31d0aa;
+}
+
+.customers-link {
+  height: 100%;
+  width: 100%;
 }
 
 /* =======FOOTER======= */
