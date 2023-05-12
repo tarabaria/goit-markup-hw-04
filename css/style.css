@@ -431,7 +431,18 @@ img {
 
 .customers-list {
   display: flex;
-  background-position: 72px;
+
+}
+
+.customers-title {
+  margin-bottom: 72px;
+  text-align: center;
+  color: var(--second-color);
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 
 .customers {
