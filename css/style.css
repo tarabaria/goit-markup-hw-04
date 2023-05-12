@@ -437,7 +437,7 @@ img {
   margin-bottom: 8px;
 }
 
-.icon {
+.icon-container>svg {
   width: 64px;
   height: 64px;
 }
