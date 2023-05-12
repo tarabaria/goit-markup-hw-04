@@ -243,6 +243,7 @@ img {
 .team-container {
   background-color: var(--white-color);
   border-radius: 0px 0px 4px 4px;
+  width: calc((100% - 72px) / 4);
 }
 
 .team-title {
@@ -277,6 +278,7 @@ img {
 
 .team-photo {
   background-color: var(--white-color);
+
 }
 
 .team-list {
